@@ -1,0 +1,59 @@
+CLOUDDESK SUPPORT KNOWLEDGE BASE
+
+=== ACCOUNT ACCESS ===
+
+FAQ: Password Reset
+Users can reset their password by clicking "Forgot Password"
+on the CloudDesk login page. A password reset link is sent
+to their registered email address. The reset link expires
+after 30 minutes.
+
+FAQ: Account Locked
+If an account is locked after multiple failed login attempts,
+the user should wait 15 minutes before trying again. If the
+account remains locked, the user should contact CloudDesk
+support.
+
+FAQ: Change Email Address
+Users cannot directly change their registered email address.
+They must contact CloudDesk support to request an email
+address change.
+
+=== BILLING ===
+
+FAQ: Refund Policy
+Refund requests must be submitted within 7 days of the
+original payment. Duplicate charges are eligible for review
+by the billing team.
+
+FAQ: Duplicate Charge
+If a customer believes they were charged twice for the same
+subscription, they should provide the invoice number and
+transaction details to the billing team for investigation.
+
+FAQ: Subscription Plans
+CloudDesk offers monthly and annual subscription plans.
+Users can view their current plan from the Billing section
+of their account.
+
+=== TECHNICAL ===
+
+FAQ: File Upload
+CloudDesk supports PDF, DOCX, PNG, and JPG files.
+The maximum file size is 10 MB.
+
+FAQ: File Upload Failure
+If a file upload fails, users should first check that the
+file format is supported and that the file is smaller than
+10 MB. If the problem continues, they should contact
+technical support.
+
+FAQ: Supported Browsers
+CloudDesk supports the latest versions of Google Chrome,
+Microsoft Edge, Mozilla Firefox, and Safari.
+
+FAQ: Application Performance
+If CloudDesk is running slowly, users should refresh the
+page and ensure that they are using a supported browser.
+Persistent performance problems should be reported to
+technical support.
