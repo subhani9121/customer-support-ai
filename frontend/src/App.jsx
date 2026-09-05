@@ -63,7 +63,7 @@ function App() {
     // ------------------------------------------------
 
     try {
-      const response = await fetch("https://customer-support-ai-wiwl4.onrender.com/chat", {
+      const response = await fetch("/api/chat", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
