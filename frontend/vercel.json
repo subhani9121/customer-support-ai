@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/chat",
+      "destination": "https://customer-support-ai-wiwl4.onrender.com/chat"
+    }
+  ]
+}
